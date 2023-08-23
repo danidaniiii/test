@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Brush+Script&display=swap');
+
+.App{
+  font-family: 'Nanum Brush Script', cursive;
+  color:white;
+  text-align: center;
+  font-size: 3rem;
+  background-color: rgb(33, 113, 199);
+  padding: 20px;
+}
+.test{
+  color:black
+}
